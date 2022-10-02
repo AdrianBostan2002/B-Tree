@@ -1,0 +1,5 @@
+﻿  B_Arbore.cpp
+C:\Users\Adi\source\repos\B_Arbore\B_Arbore\B_Arbore.cpp(435,4): warning C4101: 'key': unreferenced local variable
+C:\Users\Adi\source\repos\B_Arbore\B_Arbore\B_Arbore.cpp(512): message : see reference to function template instantiation 'void menu<int>(B_Tree<int>)' being compiled
+C:\Users\Adi\source\repos\B_Arbore\B_Arbore\B_Arbore.cpp(103): warning C4715: 'B_Tree<int>::search': not all control paths return a value
+  B_Arbore.vcxproj -> C:\Users\Adi\source\repos\B_Arbore\Debug\B_Arbore.exe
